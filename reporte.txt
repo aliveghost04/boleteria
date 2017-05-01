@@ -1,0 +1,22 @@
+Santo Domingo - Santiago
+
+Tipo Boleta 	 Boletas Vendidas 	 Total Vendido
+Estandar		10			500
+Especial		10			1000
+VIP			10			1500
+
+Santo Domingo - Punta Cana
+
+Tipo Boleta 	 Boletas Vendidas 	 Total Vendido
+Estandar		10			500
+Especial		10			1000
+VIP			0			0
+
+Santo Domingo - Puerto Plata
+
+Tipo Boleta 	 Boletas Vendidas 	 Total Vendido
+Estandar		10			500
+Especial		0			0
+VIP			10			1500
+
+
